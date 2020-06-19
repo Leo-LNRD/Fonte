@@ -15,6 +15,6 @@ Transistor MPSA42 500mA|300v	 -> R$ 5,00\
 Led Alto Brilho 2-2,4v | 20mA  -> R$ 0,18\
 Potenciômetro 10k|0,2w         -> R$ 7,50
 
-Total -> R$ 39,52\
+Total -> R$ 39,52
 
 Obs: Todos os valores foram consultados na internet, e eles podem variar.
