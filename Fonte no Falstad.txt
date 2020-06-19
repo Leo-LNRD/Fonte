@@ -44,6 +44,6 @@ w 368 144 416 144 0
 w 368 272 416 272 0
 w 416 144 432 144 0
 w 416 272 432 272 0
-x 358 295 675 298 4 10 Resistor\sde\s100\sohms\se\sVoltímetro\snão\sestão\spresentes\sno\sprojeto\sfinal.
+x 358 295 675 298 4 10 Resistor\sde\s100\sohms\se\sVoltÃ­metro\snÄƒo\sestÄƒo\spresentes\sno\sprojeto\sfinal.
 o 15 32 0 4099 40 3.2 0 2 15 3
 o 21 16 0 4099 20 0.2 1 2 21 3
