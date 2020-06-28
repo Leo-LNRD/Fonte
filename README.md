@@ -4,6 +4,8 @@ Fonte 0v-12v
 
 Objetivo: Criar uma fonte que varie entre 0v-12v com uma corrente de saída de 100mA contínua.\
 
+Vídeo de Explicação: https://youtu.be/vfgrValPdSo
+
 Componentes usados e seus valores:
 
 4x Diodos de 6a 1000v	         -> 4x R$ 1,10 = R$ 4,40\
